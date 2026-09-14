@@ -1,0 +1,22 @@
+Record=TopLevelDocument|FileName=Full_Module.SchDoc|SheetNumber=9
+Record=SheetSymbol|SourceDocument=Full_Module.SchDoc|Designator=IGBT PCB|SchDesignator=IGBT PCB|FileName=T-Type_Board.SchDoc|SheetNumber=10|SymbolType=Normal|RawFileName=T-Type_Board.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Full_Module.SchDoc|Designator=IGBT PCB|SchDesignator=IGBT PCB|FileName=T-Type_Board.SchDoc|SheetNumber=10|SymbolType=Normal|RawFileName=T-Type_Board.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Full_Module.SchDoc|Designator=U_T-Type_Board|SchDesignator=U_T-Type_Board|FileName=T-Type_Board.SchDoc|SheetNumber=10|SymbolType=Normal|RawFileName=T-Type_Board.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Full_Module.SchDoc|Designator=U_T-Type_Board|SchDesignator=U_T-Type_Board|FileName=T-Type_Board.SchDoc|SheetNumber=10|SymbolType=Normal|RawFileName=T-Type_Board.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Full_Module.SchDoc|FileName=Auxiliary_Circuit.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Full_Module.SchDoc|FileName=Coolant_System.SchDoc|SheetNumber=15
+Record=NoMainPathDocument|SourceDocument=Full_Module.SchDoc|FileName=Current_and_Water_Sensing_System.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Full_Module.SchDoc|FileName=Filter.SchDoc|SheetNumber=14
+Record=NoMainPathDocument|SourceDocument=Full_Module.SchDoc|FileName=Fuse_Block.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Full_Module.SchDoc|FileName=Primary_Cabinet.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Full_Module.SchDoc|FileName=Rectifier.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=Full_Module.SchDoc|FileName=Relay_Circuit.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Full_Module.SchDoc|FileName=RLC.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Full_Module.SchDoc|FileName=Secondary_Pad_Auxiliary_Wiring_Overview.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Full_Module.SchDoc|FileName=Shunt_Filter.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Full_Module.SchDoc|FileName=Special_Equipment_Cabinet_Overview.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Full_Module.SchDoc|FileName=T-Type_System.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Full_Module.SchDoc|FileName=Top_Overview.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Full_Module.SchDoc|FileName=Underground_Assembly.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=Full_Module.SchDoc|FileName=Unfolder.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Full_Module.SchDoc|FileName=Vehicle_Charger_Hierarchal.SchDoc|SheetNumber=12
